@@ -1,4 +1,4 @@
-baseURL = "https://akankov.github.io/akankov"
+baseURL = "https://akankov.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Alexey Kankov"
