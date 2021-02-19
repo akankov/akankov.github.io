@@ -23,7 +23,7 @@ title = "I'm Alexey Kankov"
 author = "Alexey Kankov"
 copyright = "2020-2021"
 # description = "Call me Jane"
-profilePicture = "/images/profile.jpeg"
+profilePicture = "/images/profile.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
