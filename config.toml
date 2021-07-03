@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://kankov.me/"
 languageCode = "en-us"
 title = "Alexey Kankov"
 theme = "minimal"
